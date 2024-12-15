@@ -1,0 +1,41 @@
+delivery_person_id,name,contact_number,vehicle_type,total_deliveries,average_rating,location
+1,Robert Terry,9235477108,Bike,18,3.7,"92578 Robert Crest Apt. 758
+Lake Richardberg, AK 49052"
+2,Alexandra Garcia,(447)879-3496,Car,91,4.3,"6901 Michael Mountain
+New Heatherborough, OK 07606"
+3,Michele Rodriguez,(745)693-3984,Bike,98,4.3,"858 Sarah Mills
+Annettechester, NM 63981"
+4,Betty Cortez,877-634-6427x361,Bike,53,3.8,"91201 Blevins Parkway
+North Alanmouth, PR 21607"
+5,Mrs. Kelly Waters,325-467-6561,Scooter,15,3.9,"963 Wagner Terrace Apt. 101
+South Gabriel, PW 21628"
+6,David Garcia,569.338.8053x80803,Scooter,61,4.7,"7172 Amy Fords
+East Nicholas, SC 29764"
+7,Brian Skinner,4385731836,Bike,52,3.8,"494 Cruz Stream
+Jamesmouth, OK 66841"
+8,Steven Kerr,001-353-635-1860x3454,Scooter,84,3.4,"4431 Jack Flat
+Jillberg, MH 24999"
+9,Rebecca Torres,+1-324-384-6241x57097,Car,68,4.3,"4752 Oneal Drives Suite 177
+South Diana, NH 56441"
+10,Amy Miller DDS,414.478.3815,Car,70,3.4,"469 Andrea Burg
+Mcleanshire, IA 25816"
+11,Gregg Smith,5874979753,Scooter,14,3.2,"9869 Diane Cove
+Wallaceport, LA 57678"
+12,Christopher Maldonado,374.642.1504x7051,Bike,55,3.0,"67939 Thompson Union Suite 579
+North Richard, CO 23027"
+13,Michael Thomas,001-997-856-7279,Car,87,3.9,"736 Lloyd Common Apt. 151
+Jennifertown, PR 93098"
+14,Rebekah Hogan,001-900-812-4184x5556,Bike,57,4.4,"7023 Shane Orchard Suite 559
+Allenfort, WI 75097"
+15,Lindsey Carpenter,(476)453-4269x29157,Car,76,3.4,"524 Jacob Union
+South Tony, KS 42341"
+16,Colton Johnson,+1-628-555-7551x75130,Bike,29,4.1,"46167 Diaz Way
+Robertmouth, CA 83804"
+17,John Brown,900.635.4722x0263,Bike,10,4.8,"0370 Garner Avenue
+Coxfurt, IL 95658"
+18,Gerald Olson,(561)554-9523x3823,Scooter,42,4.9,"0523 Jesse Lights
+North Rebeccaside, SC 97766"
+19,Monica Fox,+1-845-475-5440x9424,Car,20,4.4,"300 Wright Spring Apt. 187
+Lake Teresachester, GU 32056"
+20,Jason Johnson,590-420-2280,Car,41,4.6,"PSC 0141, Box 8818
+APO AP 27237"

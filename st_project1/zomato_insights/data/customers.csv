@@ -1,0 +1,201 @@
+customer_id,name,email,phone,location,signup_date,is_premium,preferred_cuisine,total_orders,average_rating
+1,Stephen Herrera,juan81@example.org,261-241-3337x1134,"997 David Lodge Apt. 303
+West Christian, VI 60332",2023-03-23,False,Mexican,4,4.2
+2,Emily Coleman,emilysimmons@example.com,(683)405-6541,"642 Patricia Estate
+New Michelleland, NM 58376",2024-10-07,False,Mexican,50,4.9
+3,Jeffrey Gill,zedwards@example.net,2326837348,"23665 Michael Trace
+New Devin, NM 85609",2024-10-13,False,Indian,33,3.3
+4,Patrick Brown,michael10@example.com,207.387.6472,"9516 Mclean Landing
+South Jacqueline, IA 25140",2024-06-17,False,Indian,43,4.4
+5,Benjamin Townsend,roberto80@example.org,278.292.2827x35977,"736 Beth Village Apt. 112
+Dianastad, LA 52524",2023-12-10,False,Indian,49,3.9
+6,Gabriela Griffin,jonesthomas@example.net,206.329.6858x563,"85723 Thomas Ramp Apt. 562
+Graystad, WA 46319",2023-05-11,False,Indian,44,3.0
+7,Sara Velasquez MD,fjones@example.com,001-722-632-1363x411,"806 Lisa Trace Apt. 615
+Waynetown, NE 44558",2024-06-03,True,Italian,9,3.5
+8,Rachel Kaiser,jennifer16@example.org,707.452.9845,"53483 Yoder View Suite 613
+Lake Robertborough, MI 80559",2024-05-02,False,Mexican,34,4.4
+9,Russell Cunningham,jwatson@example.net,+1-294-764-1470,"PSC 6833, Box 4093
+APO AP 18424",2024-11-22,False,Italian,50,4.2
+10,Christopher Browning,robertsoncasey@example.com,596-953-3500,"363 Joseph Mills Suite 851
+Buchananmouth, WY 32712",2024-05-22,True,Mexican,49,3.7
+11,Terry Lopez,ashleysanford@example.org,+1-866-422-7917x638,"8633 Martinez Freeway
+Annechester, NM 14555",2023-12-24,False,Mexican,42,4.5
+12,Ms. Anne Reynolds,drakedawn@example.org,(880)470-2592x163,"7826 Susan Orchard
+South Danielport, AR 90336",2023-05-01,False,Indian,11,4.6
+13,Dylan Ochoa,paul51@example.net,254-647-8032x657,"9419 Logan Fields
+Potterborough, NE 10241",2023-10-16,True,Chinese,48,4.4
+14,April Reed,yallen@example.org,+1-881-568-1857x341,"82230 Kimberly Plains
+Carsonfurt, AZ 32601",2023-05-22,True,Indian,16,4.3
+15,Kelly Buck,whitney51@example.net,+1-541-208-0009,"810 Alexis Rapid
+Lindseyburgh, GU 36498",2023-03-05,True,Mexican,5,4.5
+16,Lance Morgan,markskatherine@example.net,563-329-3141,"1736 Shaw Valley Suite 755
+Camposton, WI 30011",2024-11-09,False,Mexican,41,3.0
+17,Joshua Murphy,gailmartinez@example.com,912-789-8629x13500,"1664 Laura Common Apt. 266
+South Bruce, NM 15467",2023-11-28,True,Mexican,30,4.4
+18,Mark Salazar,kennethmitchell@example.com,6936345094,"96303 Garrett Springs
+South Jenniferville, IN 36224",2023-11-16,False,Italian,25,4.6
+19,Amanda Martin,tstokes@example.org,391-250-7774x2231,"5734 Dalton Overpass Apt. 020
+South Jason, PW 19106",2024-04-03,True,Indian,26,4.1
+20,Michelle Preston,darrellwhitaker@example.com,313.326.2570,"81343 Michael Street Apt. 097
+Lewisshire, FL 21497",2023-10-10,True,Mexican,30,4.9
+21,Kirk Hampton,jennifer34@example.org,953-582-5608,"44483 Watkins Locks Suite 332
+Milestown, KY 73861",2024-04-14,False,Italian,8,3.2
+22,Douglas Harrington,brianwashington@example.net,638.482.5404x88286,"72072 Goodman Stravenue Apt. 751
+Kimshire, AR 19514",2024-01-24,True,Italian,40,3.8
+23,John Stewart,johnsonphilip@example.net,403.965.4658x33131,"Unit 4831 Box 1511
+DPO AE 05598",2023-10-13,False,Indian,10,3.7
+24,Becky Atkins,sorr@example.net,998.896.5222,"USNS Strickland
+FPO AA 19982",2023-06-27,False,Indian,13,4.8
+25,Nicholas Rodriguez,juanpatel@example.net,+1-405-387-2624x268,"0232 Lee Cliff
+Morganfurt, WV 53855",2023-05-28,True,Mexican,14,3.6
+26,Ricardo Jones,emilyjohnson@example.net,+1-749-707-6085,"132 Robert Viaduct
+East Loretta, DC 81304",2024-01-27,False,Mexican,20,4.1
+27,Denise Rogers,williamsosa@example.net,944-759-5134x411,"9785 Jessica Ranch Apt. 354
+South Roberthaven, WI 92583",2024-09-15,True,Indian,7,4.0
+28,Kenneth Harrington,joseph01@example.com,+1-826-281-5382x0936,"96472 Perez Bypass Apt. 786
+Barryville, CO 74690",2023-11-12,True,Chinese,33,4.9
+29,David Chavez,maddoxscott@example.org,443-937-6122x3305,"0690 Kendra Landing
+South Tracey, DC 58327",2023-10-24,False,Italian,28,4.0
+30,Amy Hamilton,jacksonpamela@example.net,288.654.9212,"4505 Palmer Key Apt. 450
+Lake Jamesshire, VA 38620",2023-04-10,False,Italian,29,4.5
+31,Stephanie Sharp,matthew86@example.net,(870)947-9100,"866 Oconnor Way Suite 458
+Lake Janet, WV 30764",2024-12-09,False,Italian,40,4.4
+32,Edward Moody,kellyavila@example.net,266.967.3411,"5751 Black Landing Suite 084
+Scottland, MI 11605",2024-07-12,True,Indian,25,3.7
+33,Randy Alexander,smithkevin@example.net,(775)256-0396,"80957 Peterson Villages Apt. 972
+Lake James, VI 60973",2024-08-14,False,Italian,19,3.3
+34,Katie Brown,tanyamiller@example.net,679.612.1188x7491,"33684 Katherine Well
+Walterstad, VT 46808",2024-03-13,False,Chinese,41,4.8
+35,Aaron Olson,gclements@example.org,890-483-0650x49904,"315 Cynthia Pines
+Lake Vickistad, NJ 07661",2023-02-04,True,Mexican,38,3.1
+36,Scott Floyd,brianahanson@example.net,(620)612-4206x9226,"4934 Velasquez Lake Suite 642
+Lake Steven, SD 45331",2023-08-28,True,Mexican,5,4.4
+37,Vicki Miller,xjones@example.com,318-276-9418,"0731 Allen Parks
+Wayneland, ND 28530",2023-07-23,True,Indian,11,3.7
+38,Kerri Wagner,kimberlycross@example.net,253-203-2624,"40638 Schroeder Drive
+Valeriechester, FM 30407",2023-07-18,True,Chinese,49,4.8
+39,Emily Cooper,nicolemosley@example.org,001-962-578-1475x93558,"33742 Renee Route
+Edwardshaven, IA 71873",2024-07-02,False,Chinese,9,4.4
+40,Makayla Ellison,ubrown@example.com,663-526-2821x756,"35699 Zimmerman Unions
+Michaelberg, MO 48235",2024-09-18,False,Mexican,4,4.2
+41,Amber King,walkermaria@example.com,+1-305-823-4414x130,"9843 Mary Pine Apt. 094
+South Wandaborough, CT 16340",2024-04-24,True,Chinese,11,4.5
+42,Kyle Gilbert,nicholas96@example.com,556.729.5659,"USNV Wood
+FPO AP 92347",2024-06-08,True,Mexican,34,3.5
+43,Riley Nelson,patrickschneider@example.net,651-449-1333,"624 William Centers Suite 218
+North Amyshire, KS 02676",2024-08-08,False,Chinese,33,4.4
+44,Derrick Miranda,tammierodriguez@example.com,001-287-316-4840x66803,"03848 Jay Glens
+New Gabrielle, MT 47753",2024-05-15,False,Italian,47,3.8
+45,Angela Moore,meganking@example.com,747.303.1881x535,"04978 Elizabeth Circle
+Lake Andrew, OH 19500",2024-11-13,False,Indian,29,3.6
+46,Brian Lee,hobbsgina@example.com,259-239-5350,"8247 Gregory Bridge
+New Paulfurt, PW 81748",2023-04-16,False,Indian,46,4.3
+47,Mariah Nunez,benjamin51@example.net,(356)625-6334,"5291 Powers Mountain Suite 240
+Lake Jonathan, VT 05032",2023-07-18,False,Indian,17,4.6
+48,Amy Gonzalez,yvettebarnett@example.com,(240)412-2982,"3242 Matthew Roads Suite 437
+North Kaylahaven, NC 43713",2023-01-29,False,Indian,18,3.7
+49,Alexander Peterson,walkerdeanna@example.com,(563)737-0410x689,"590 Mark Knoll
+Ramosmouth, KY 18081",2024-05-20,True,Indian,17,4.3
+50,Julie Butler,aimeehernandez@example.org,260.493.6845,"7876 Stephanie Mills
+South Charlesborough, VI 37331",2024-07-09,False,Italian,47,3.0
+51,Perry Reynolds,erinrubio@example.org,+1-749-789-9739x4523,"94790 Nicole Branch
+Monroeshire, PR 95319",2024-11-15,True,Indian,29,3.9
+52,Craig Simpson,joshuawallace@example.net,+1-876-574-4688x978,"42309 Matthew Heights
+Port Stephenshire, ND 20328",2023-11-26,True,Chinese,46,4.4
+53,Joshua Moss,jeremysmith@example.net,+1-648-574-3426,"4627 Smith Station Suite 904
+North Kimberlymouth, NY 15740",2023-02-04,True,Chinese,5,3.1
+54,Kelly Taylor,youngpamela@example.net,+1-377-364-9826x1496,"08387 Brady Overpass Suite 593
+Greenberg, AS 21726",2022-12-22,False,Italian,22,3.9
+55,Joseph Murray,jalvarado@example.org,001-795-819-8676x6241,"850 Williams Rue
+Port Gina, NV 22408",2023-11-17,True,Mexican,27,4.2
+56,Daniel Butler,acevedologan@example.com,4332439925,"65248 Tammy Underpass Suite 358
+Lake Angelaport, DE 22778",2024-09-05,False,Italian,4,3.8
+57,Jessica Smith,james24@example.org,(262)277-1279,"98011 Adams Port
+Port Josephton, ND 03445",2024-09-08,False,Indian,43,3.7
+58,Todd Mitchell,rick78@example.com,(962)234-6419,"PSC 1202, Box 2660
+APO AP 42311",2024-07-06,True,Italian,20,3.4
+59,David Hoffman,bradley90@example.net,488.989.1213x21371,"80021 Herman Shore
+Lake Sharonberg, PR 10055",2023-04-25,True,Italian,50,3.3
+60,Matthew Jimenez,donna60@example.net,001-344-279-4051x35759,"3558 Dunn Harbors
+Lake Heather, TX 04236",2024-02-11,True,Italian,42,4.7
+61,Misty Ball,beardmatthew@example.org,739.540.3092x62158,"5368 Carol Roads Apt. 519
+Port Erinton, MS 70707",2022-12-27,False,Italian,5,4.8
+62,Kristin Anderson,aguilarmichelle@example.com,(461)491-4637x67348,"1322 Rivera Bypass
+Port Russellborough, FM 20641",2024-06-03,True,Chinese,46,4.4
+63,Christina Fox,rachel18@example.net,761-751-0219,"216 Kimberly Port Apt. 835
+Nicholsonfurt, NV 12522",2023-08-29,False,Indian,18,3.6
+64,William Rodriguez,ejones@example.com,920.286.3075,"93502 Stevens Square Suite 875
+South Patrick, OH 76347",2023-07-27,True,Italian,34,4.1
+65,James Blair,bchristian@example.com,(416)365-4399x0235,"82454 Breanna Route
+Warrenfort, WA 03783",2023-12-21,False,Indian,17,4.3
+66,Robert Williams,stephen76@example.com,001-769-919-5031x51100,"4586 Gonzales Points
+Lake Marissa, TX 68292",2022-12-19,True,Indian,8,3.4
+67,Jeremy Rogers,santosmichelle@example.org,(985)450-8743,"046 Nicole Forks Apt. 602
+Davidchester, WY 06101",2022-12-19,False,Chinese,3,4.2
+68,Michelle Jacobs,katelynlittle@example.net,(722)896-4386x094,"PSC 9478, Box 5312
+APO AP 13969",2023-05-28,False,Chinese,17,4.1
+69,Joyce Bennett,nicolemiller@example.com,297-486-2251,"1830 Jasmine Extension Suite 107
+Port Amystad, DE 94438",2023-04-18,True,Chinese,31,4.1
+70,Heather Cox,carlosdelgado@example.org,373-349-4709x32217,"USS Taylor
+FPO AE 89545",2023-06-24,False,Indian,50,3.9
+71,Hayley Macdonald,carlsontravis@example.net,559.671.4375,"PSC 8910, Box 7542
+APO AA 45934",2022-12-26,True,Italian,15,4.4
+72,Jerry Finley,amysmith@example.com,001-694-949-0816,"62427 Alison Fork Apt. 959
+South Susanbury, MN 36649",2023-10-14,True,Italian,4,4.7
+73,Anthony Hoffman,josedavis@example.com,582-830-0180x2638,"28779 Flores Point
+Michaelstad, OH 84916",2023-04-04,True,Chinese,2,4.8
+74,Valerie Garcia,paynemark@example.net,4357844174,"063 Payne Oval
+New Katelyn, AL 77320",2023-06-30,False,Indian,32,4.5
+75,Kaitlyn Gibson,vramirez@example.com,305.632.3085x27633,"Unit 1667 Box 7357
+DPO AE 78625",2022-12-26,False,Indian,41,4.0
+76,John Jackson,nicholas27@example.org,3234019934,"938 Patterson Parkways
+Josephland, ND 45799",2024-06-02,True,Italian,6,4.6
+77,Joseph Brandt,camposstephanie@example.com,546.820.3266x3547,"1435 Patricia Spurs
+Garciamouth, IN 96422",2024-09-21,False,Italian,7,3.0
+78,Shannon Lowery,unash@example.net,987.269.5387x8408,"00314 Gonzalez Hollow
+New Jennifer, GA 11857",2024-06-19,True,Italian,29,4.4
+79,Lisa Fitzpatrick,shunt@example.net,661.408.6866,"5822 Kyle Glens
+North Donna, DC 99585",2023-12-14,False,Indian,44,3.3
+80,Christopher Gray,brandonbrown@example.net,9228370914,"149 Campbell View
+Port Christinachester, AK 12697",2023-10-20,True,Italian,14,3.8
+81,Todd Walker,zcrawford@example.com,298-459-4249,"Unit 9876 Box 4342
+DPO AA 39509",2024-05-23,False,Italian,40,3.7
+82,Derek Floyd,dcunningham@example.org,+1-531-431-2271x6482,"6971 John Rapid
+Johnshire, OH 17912",2024-02-21,True,Chinese,3,3.7
+83,Matthew Anderson,davismichael@example.org,355.289.8325x52538,"3346 Mills Station Suite 994
+New Natashaburgh, WV 38470",2024-05-22,False,Italian,48,4.5
+84,Sean Smith,ethan71@example.org,(553)793-5628x8496,"960 Sarah Parkway Apt. 605
+South Charles, AK 29996",2024-09-13,False,Chinese,10,4.9
+85,Michael Molina,jillrobinson@example.org,+1-778-231-9927x64296,"USNV Holland
+FPO AP 88895",2023-08-04,False,Chinese,31,3.6
+86,James Gates,jacobvincent@example.net,813-529-0531,"28993 Greer Plaza
+Camposmouth, TX 49273",2023-10-08,True,Mexican,4,3.3
+87,Lauren Daniels,daisydiaz@example.com,001-691-308-4449,"837 Mario Creek Apt. 436
+Danielbury, FL 70699",2023-03-23,True,Italian,39,3.4
+88,Mitchell Watts,josephdylan@example.com,956.478.0678x11626,"45399 Williams Village Apt. 274
+Timothybury, VI 61120",2023-03-22,False,Indian,4,3.8
+89,Benjamin Brooks,andersoncarrie@example.net,+1-868-547-5553x1266,"5322 Thomas Mission
+East Monicatown, MT 43958",2023-02-23,True,Mexican,3,4.0
+90,Theodore Morgan,richard81@example.com,831-736-1655,"86687 Sheena Junction
+East Aaronfurt, ID 78093",2024-10-09,False,Italian,38,4.2
+91,Jerome Smith,dicksonalexandra@example.org,(466)326-6021,"0707 Jeff Stravenue
+Reidbury, MA 66075",2023-03-05,True,Italian,46,4.2
+92,John James,vgarcia@example.net,001-482-986-9752,"PSC 0750, Box 2481
+APO AA 24661",2024-04-04,True,Italian,7,4.9
+93,Todd Shelton,saraalvarez@example.com,+1-951-528-1593x5811,"28079 Phillip Ramp Suite 825
+Jessicafort, MO 60500",2024-05-11,True,Italian,11,4.8
+94,Terry Sullivan,laurapatel@example.com,+1-974-668-8644x2366,"93835 Taylor Loaf Apt. 720
+Port Erica, SD 39461",2023-02-24,False,Mexican,41,3.3
+95,Julian Stanley,sandovalmariah@example.org,582-247-8488x657,"7376 Shannon Inlet Suite 258
+Port Donna, PR 43657",2024-09-11,True,Chinese,21,3.3
+96,Christopher Russell,steven46@example.org,848.405.2818,"PSC 2158, Box 7461
+APO AP 09541",2023-08-22,False,Indian,9,4.5
+97,Cindy Freeman,whitejennifer@example.net,518-904-4414x7054,"Unit 9619 Box 2798
+DPO AP 64943",2024-12-02,True,Chinese,15,4.3
+98,Laura Johnson,sandrawells@example.com,851-771-8107x3617,"4829 Griffith Estates
+Harrellville, NH 26875",2023-12-14,False,Mexican,45,4.7
+99,Matthew Lopez,xmcgee@example.org,831-916-5358x2348,"00802 Kimberly Plains Suite 379
+Whiteborough, AK 76128",2024-08-25,False,Italian,1,3.4
+100,Brittany Harris,paulking@example.net,001-827-563-8862x9320,"934 Jones Walks Suite 679
+Nelsonland, IL 66485",2023-04-03,True,Indian,1,3.9

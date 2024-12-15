@@ -1,0 +1,101 @@
+delivery_id,order_id,delivery_person_id,delivery_status,distance,delivery_time,estimated_time,delivery_fee,vehicle_type
+1,63,8,On the way,5.24,57,48,75,Bike
+2,5,6,On the way,5.54,53,40,64,Scooter
+3,15,5,Delivered,8.09,29,45,41,Scooter
+4,73,2,On the way,13.64,26,44,37,Scooter
+5,22,20,On the way,13.86,53,35,95,Bike
+6,80,16,On the way,5.95,25,45,87,Bike
+7,80,6,Delivered,3.03,23,40,53,Car
+8,40,3,Delivered,6.86,38,22,41,Car
+9,28,14,On the way,1.36,57,46,33,Bike
+10,78,1,Delivered,2.9,58,23,75,Car
+11,95,2,Delivered,3.89,25,38,39,Bike
+12,46,11,On the way,9.53,40,33,94,Car
+13,57,19,Delivered,3.41,20,23,63,Car
+14,23,20,Delivered,8.05,44,24,52,Scooter
+15,30,9,On the way,2.53,25,43,56,Bike
+16,22,8,Delivered,7.72,54,49,62,Bike
+17,44,4,Delivered,14.69,44,50,84,Car
+18,74,7,On the way,10.35,60,25,81,Bike
+19,69,4,On the way,12.47,31,22,31,Bike
+20,52,3,On the way,13.35,56,24,44,Bike
+21,73,2,Delivered,13.36,38,32,71,Scooter
+22,96,16,On the way,8.52,20,41,71,Bike
+23,58,19,Delivered,14.13,31,21,22,Car
+24,91,19,Delivered,9.66,57,43,29,Scooter
+25,27,2,On the way,7.06,56,46,81,Car
+26,14,15,On the way,10.97,53,34,54,Bike
+27,8,16,Delivered,13.07,33,30,85,Car
+28,32,16,On the way,14.64,28,20,24,Scooter
+29,71,17,Delivered,4.3,50,35,94,Scooter
+30,72,19,Delivered,4.54,28,19,74,Bike
+31,58,4,Delivered,14.85,49,17,74,Car
+32,86,18,Delivered,3.86,20,38,21,Scooter
+33,18,1,On the way,14.95,48,30,30,Bike
+34,91,11,Delivered,7.33,57,24,90,Bike
+35,42,17,On the way,9.04,54,42,42,Car
+36,15,8,On the way,8.17,23,23,88,Scooter
+37,47,16,On the way,14.31,55,25,87,Scooter
+38,50,12,Delivered,13.65,26,18,100,Car
+39,94,9,Delivered,12.98,41,31,41,Scooter
+40,33,17,On the way,7.22,51,18,74,Car
+41,94,12,On the way,10.37,21,26,66,Scooter
+42,87,1,Delivered,1.29,23,40,55,Car
+43,20,1,Delivered,12.2,53,30,29,Car
+44,64,1,Delivered,9.46,20,43,97,Car
+45,32,14,On the way,12.94,59,20,82,Bike
+46,82,16,Delivered,13.87,47,40,68,Scooter
+47,61,18,Delivered,12.25,22,28,66,Scooter
+48,40,3,On the way,9.97,40,24,58,Bike
+49,91,8,On the way,8.12,34,27,84,Scooter
+50,87,20,Delivered,13.85,46,35,61,Car
+51,51,8,Delivered,5.73,33,32,65,Bike
+52,26,19,On the way,5.56,47,26,66,Bike
+53,29,8,On the way,4.57,20,43,29,Car
+54,58,12,On the way,2.98,49,15,25,Car
+55,61,12,On the way,13.95,42,46,32,Car
+56,7,2,Delivered,7.46,43,19,42,Scooter
+57,52,9,On the way,8.35,22,16,78,Scooter
+58,46,17,Delivered,13.39,29,24,100,Scooter
+59,13,4,On the way,8.8,59,47,41,Bike
+60,68,18,Delivered,14.61,41,31,67,Bike
+61,44,8,Delivered,2.51,54,26,61,Scooter
+62,68,14,On the way,14.93,45,16,49,Car
+63,10,16,Delivered,12.92,52,16,24,Bike
+64,51,17,Delivered,9.86,54,40,36,Scooter
+65,20,11,On the way,7.97,41,42,80,Scooter
+66,39,2,Delivered,5.1,57,35,69,Bike
+67,82,2,On the way,6.87,27,21,24,Bike
+68,18,2,Delivered,7.88,55,23,59,Bike
+69,65,18,Delivered,13.09,25,28,87,Bike
+70,97,11,On the way,2.1,47,49,46,Car
+71,94,14,Delivered,14.86,22,39,26,Car
+72,22,2,On the way,7.38,58,34,98,Car
+73,90,12,On the way,10.33,22,25,45,Bike
+74,63,11,Delivered,6.59,31,33,46,Car
+75,68,8,Delivered,11.91,52,32,44,Scooter
+76,12,17,Delivered,2.31,34,22,60,Scooter
+77,81,15,On the way,6.7,29,17,50,Car
+78,31,18,On the way,11.44,58,16,95,Bike
+79,33,7,On the way,7.28,32,37,43,Car
+80,50,4,On the way,12.23,26,19,35,Bike
+81,20,9,On the way,7.65,48,40,99,Car
+82,68,15,On the way,6.35,40,38,65,Bike
+83,28,7,Delivered,9.83,60,33,69,Car
+84,17,4,On the way,7.0,54,28,54,Car
+85,39,9,On the way,2.99,30,18,34,Car
+86,61,7,On the way,8.3,20,26,71,Bike
+87,91,13,Delivered,8.5,55,17,39,Bike
+88,2,3,Delivered,12.04,51,27,95,Scooter
+89,88,17,On the way,3.38,55,15,28,Car
+90,53,2,Delivered,3.67,23,17,75,Bike
+91,33,1,On the way,11.17,34,18,74,Car
+92,64,13,On the way,8.62,54,36,45,Bike
+93,60,18,On the way,6.39,47,48,72,Scooter
+94,69,4,On the way,10.75,43,43,39,Scooter
+95,52,7,Delivered,7.87,21,45,73,Bike
+96,28,12,On the way,5.62,22,41,68,Scooter
+97,49,9,On the way,14.79,35,28,62,Scooter
+98,41,12,Delivered,9.7,24,35,70,Bike
+99,85,10,Delivered,3.7,28,23,60,Car
+100,25,13,On the way,14.7,24,21,81,Car
