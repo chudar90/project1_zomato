@@ -1,0 +1,101 @@
+restaurant_id,name,cuisine_type,location,owner_name,average_delivery_time,contact_number,rating,total_orders,is_active
+1,"Garcia, Ford and Webster",Mexican,"267 Elizabeth Throughway Suite 563
+East Edwardside, VT 79751",Craig Smith,17,+1-262-474-9350x684,3.4,269,True
+2,Myers-Hanson,Mexican,"98583 Ayala Loop Suite 031
+Espinozabury, MA 15090",Jonathan Molina,22,001-245-490-7575x10634,3.6,407,False
+3,"Schneider, Torres and Rangel",Italian,"273 Atkinson Plain
+Port Angelastad, TX 31289",Mr. Adam Mays,39,6834988312,3.5,485,False
+4,Duncan LLC,Mexican,"71974 Alan Spring Suite 417
+New Robertville, MO 88127",Jeffery Davidson,44,+1-749-577-6154x090,3.9,247,True
+5,Petty Ltd,Indian,"820 Castro Ramp
+East Kevin, TN 13215",Tonya Smith,42,320-453-2533,3.4,266,False
+6,"Krause, Smith and Kim",Mexican,"USS Clark
+FPO AE 05466",Caitlin Nichols,26,820-505-4192,3.6,5,True
+7,"Gibbs, Austin and Thomas",Chinese,"USNS Mclean
+FPO AP 53126",Nathan Nunez,22,+1-473-835-3227,3.2,248,True
+8,Jacobson LLC,Indian,"651 Robert Motorway
+Boydfurt, FL 10473",Javier Mendoza,37,+1-900-991-8674x4271,3.8,207,True
+9,"Terry, Aguilar and Richard",Indian,"9465 Kevin Crossing
+Steveshire, TX 28225",Adam Small,31,+1-775-966-0286x95309,4.8,179,True
+10,Alexander-Cole,Indian,"5665 Figueroa Spring
+Brendashire, OK 38238",Brittney Pitts,16,5235993401,4.2,395,True
+11,"Brown, Roberts and Wilson",Italian,"92126 Peter Ports Apt. 491
+Williamhaven, TX 88020",Teresa Davis,45,+1-426-727-5326x3871,3.6,154,True
+12,Fry Inc,Indian,"836 Johnson Mill
+Judybury, IL 48079",Jesse Price,35,(257)979-7919x12265,3.3,110,False
+13,"Thomas, Mitchell and Hernandez",Mexican,"2526 Jordan Mountains Apt. 197
+East Jason, WI 24592",Nathan Montgomery,34,001-704-733-6816x94173,3.7,195,False
+14,"Walker, Gates and Higgins",Indian,"3609 Campbell Coves
+Rodriguezville, NJ 66142",Jonathan Perry,25,829.586.4608x5678,3.3,306,False
+15,Henderson Inc,Indian,"890 Amanda Courts
+Bakerview, LA 28595",Daisy Warner,35,+1-772-404-7339x95356,4.6,56,True
+16,Lawson LLC,Italian,"PSC 0818, Box 3512
+APO AA 87748",Dr. Lydia Martin,29,(561)920-5775x95911,3.4,336,False
+17,Washington Group,Indian,"89775 Erin Port
+Thompsonmouth, KS 88719",Ryan Rios,34,409-970-3220x971,5.0,255,False
+18,Lester-Johnson,Italian,"20953 Walter Way
+North Pedro, CA 02409",Annette Brown,25,+1-887-746-0992x737,3.4,451,True
+19,Rodriguez Group,Chinese,"0187 Baker Divide
+South Victoria, NH 17000",Garrett Tanner,26,+1-253-555-5092,4.5,467,False
+20,Flores-Bridges,Indian,"3868 Scott Common
+South Robert, HI 99828",Steven Lopez,43,+1-283-537-6731x7965,3.1,270,True
+21,"Morton, Miller and Medina",Indian,"846 Diane Shoal Suite 941
+Paulland, KS 86136",Gloria Kennedy,23,+1-349-658-9239,3.4,381,True
+22,Johnson-Myers,Italian,"Unit 7197 Box 7114
+DPO AA 32480",Adam Parker,17,+1-555-788-4641x57240,3.6,213,True
+23,Perez Inc,Chinese,"40307 Parrish Forges
+Lake Sean, RI 84715",Richard Jackson,18,(280)413-6046x24036,3.2,227,False
+24,Gomez-Soto,Mexican,"133 Wilson Extensions Apt. 690
+Garrisonfort, PW 08345",Vickie Mooney,37,001-204-601-6142,4.5,167,True
+25,"Rogers, Smith and Wheeler",Indian,"5233 Jeffrey Loop Apt. 550
+Port Taylor, NC 07841",John Kennedy,38,+1-437-504-7099,3.1,119,False
+26,Mata-Rush,Mexican,"PSC 1997, Box 2458
+APO AP 88336",Anna Pearson,36,6647459353,3.5,383,True
+27,Lopez-Garcia,Chinese,"4111 Timothy Causeway Apt. 638
+Mannport, TX 52044",Kelly Gonzales,44,(279)353-6192x405,4.8,434,False
+28,Richardson PLC,Chinese,"951 Ronald Wall
+Jonesmouth, MH 40520",Gerald Valdez,40,797-458-8278,3.4,343,False
+29,Morrison Inc,Mexican,"264 Brian Canyon Suite 692
+Nicoleborough, WV 40935",Jonathan Scott,37,(599)781-7809x352,3.4,386,True
+30,Valdez-Montgomery,Chinese,"751 Berg Vista
+Royside, UT 54062",James Clark,35,001-456-405-5030x88812,4.1,294,True
+31,Goodman and Sons,Italian,"51421 Warren Drive Apt. 775
+North Amandashire, NV 38738",Dana Dudley,15,269.226.1309,3.0,139,True
+32,Gutierrez-Porter,Indian,"07485 Charles Plains
+North Timothy, MP 71022",Logan Holmes,45,422-241-4923,5.0,51,True
+33,Baker and Sons,Indian,"9791 Velazquez Stream
+West Amberport, MN 80951",Mitchell Jacobs,43,(912)727-7686,4.0,336,True
+34,Brooks LLC,Mexican,"026 Webster Dale Apt. 420
+Leonardbury, RI 02412",Leslie Thompson,19,(924)962-7460x6009,3.6,261,True
+35,Hall-Lowe,Chinese,"68713 Carter Rapids Suite 794
+Randallstad, CA 84978",Nathan Perez,30,436-557-6819x7436,4.4,119,True
+36,"Hernandez, Hernandez and Moore",Mexican,"92651 Amy Knoll Apt. 138
+Brownfort, AR 99765",Kathy Kidd,22,(774)900-6720x146,4.2,366,True
+37,"Patrick, Flowers and Carroll",Indian,"9066 Shelton Crest Apt. 669
+Mcintoshstad, WV 46556",Shaun Brown,21,540-793-2577x413,3.2,7,True
+38,Reed PLC,Italian,"96672 Patricia Lakes
+Port Courtney, HI 34063",Linda Cole,24,001-343-487-4571,4.0,286,False
+39,"Jones, Taylor and Flores",Chinese,"9891 Julie Forge
+East Allenbury, KY 73591",Douglas Gregory,31,001-749-828-5979x460,4.5,1,True
+40,"Johnson, Valdez and Simon",Italian,"85003 Hodges Trafficway Apt. 028
+Carlosview, AZ 64991",Henry Kent,41,(575)344-2837x1663,4.6,241,True
+41,"Williams, Bowman and Martinez",Italian,"51669 Rodriguez Drive Suite 921
+Evansberg, MN 04805",William Ruiz,38,268.456.3270x48807,3.6,11,False
+42,"Kennedy, Brewer and Buchanan",Italian,"26816 Snyder Shoal
+Shannonshire, WI 96853",Ryan Hurley,19,(347)521-6119,4.9,273,False
+43,Collins-Rowe,Indian,"356 Smith Plain Apt. 802
+Lewisview, MP 26441",Mario Smith,36,+1-821-622-0611x3021,4.6,102,False
+44,Atkins-Harris,Indian,"4870 Davidson Village Suite 673
+Stevensburgh, AS 62226",Betty Walsh,39,(253)742-7923,4.0,254,True
+45,Ball LLC,Chinese,"16770 Amy Forks Suite 698
+Joshuafort, SC 66048",Jennifer Ochoa,44,457-964-9446,3.2,477,True
+46,Barry Group,Mexican,"14569 Whitney Tunnel
+Lake Gina, WA 92825",Shawn Baker,24,+1-546-890-1481x8798,4.1,500,True
+47,Rivera PLC,Chinese,"401 Brian Viaduct
+Barbarahaven, NJ 41946",Dawn Villarreal,34,001-528-820-2215x0439,3.8,481,True
+48,"Carr, Howard and Miles",Indian,"7386 Webb Park
+New Michaelview, AK 63113",Cory Miller,22,(528)548-4288x88100,3.2,271,True
+49,"Hall, Estrada and Vaughn",Indian,"225 Aaron Land
+New Jackiefurt, PR 86071",Mackenzie Shelton,28,364-849-7807x625,4.4,355,False
+50,"Norman, Gonzales and Howard",Chinese,"995 Medina Ports
+South Tamara, NM 00836",Richard Marsh,30,001-228-533-6694x3233,4.1,62,False
